@@ -1,7 +1,7 @@
 # Game-hub-
 Basically  offline  game hub
 
-#Currently-avaliable-games-
+# Currently-avaliable-games-
 1.poppu the cat sim
 2.rock paper scissors 
 3.tic tac tow (multiplayer)
